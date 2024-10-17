@@ -40,3 +40,9 @@ in the future, i hope to add/make new notebooks for the following topics:
 - llama forward pass
 - sparse autoencoders
 - ...
+
+## acknowledgements
+
+- @_xjdr on twitter for opening my eyes to jax
+- https://jax.readthedocs.io/en/latest/
+- arxiv
