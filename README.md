@@ -4,7 +4,7 @@ this repository has two jupyter notebooks, meant to guide you through building a
 
 click 'Open in Colab' to run this notebook. you'll be working on a personal copy and any changes you make won't affect the original notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arb8020/jax-gpt2-exercises/blob/main/notebooks/jax_gpt2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arb8020/jax-gpt2-exercises/blob/main/jax_gpt2.ipynb)
 
 ## overview
 
