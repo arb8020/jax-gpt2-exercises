@@ -44,5 +44,6 @@ in the future, i hope to add/make new notebooks for the following topics:
 ## acknowledgements
 
 - @_xjdr on twitter for opening my eyes to jax
+- andrej karpathy's youtube channel
 - https://jax.readthedocs.io/en/latest/
 - arxiv
